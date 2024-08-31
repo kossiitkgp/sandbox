@@ -4,7 +4,7 @@ Branches are one of the basic concepts of git. There is a main branch `main` (pr
 
 Branches allow us to work on more than 1 feature at the same time, thus helping us avoid mixing of commits. If during the process, there are useless commits added and the whole branch is messed up, you can easily delete the branch and create a fresh branch from the `main` branch.
 
-Note: **Never ever commit or rebase on your main branch**.
+Note: **Never ever commit or rebase on your main branch**
 
 The development workflow goes like this :
 
